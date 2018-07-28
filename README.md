@@ -1,10 +1,6 @@
 # Math Study
 
-## Requirements
 
-* Python 2.7
-* `pip install git+git://github.com/shotgunsoftware/python-api.git`
-* `pip install PyQt4
 
 ## Overview
 
